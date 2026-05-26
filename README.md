@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Amanuel Legesse</h1>
-<h3 align="center">I am a **Software Engineer & IT Support Specialist with experience in Flutter, Java, Node.js, and backend development. Passionate about building scalable applications, solving complex technical challenges, and continuously learning new technologies. Currently enhancing my expertise in AI/ML through the 10 Academy Kifiya AI Mastery Training Program.</h3>
+<h3 align="center">I am a Syetem Administrator, Software Engineer & IT Support Specialist with experience in Windows Server, VMwareEsxi, Network administrattion, Cisco Meraki, IT Infrustructure Flutter, Java, Node.js, and backend development. Passionate about building scalable applications, solving complex technical challenges, and continuously learning new technologies. Currently enhancing my expertise in AI/ML through the 10 Academy Kifiya AI Mastery Training Program.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skywalker416&label=Profile%20views&color=0e75b6&style=flat" alt="skywalker416" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skywalker416" alt="skywalker416" /></a> </p>
 
-- 🔭 I’m currently working on [Kifiya AI mastery training](https://github.com/Skywalker416/EDA-and-Stats-Analysis-Week-0.git)
+- 🔭 I’m currently working on System Administration.
 
-- 🌱 I’m currently learning **Python, AI modeling, Data Analysis**
+- 🌱 I’m currently learning **Linux Server**
 
 - 👨‍💻 Know more about me [Portfolio](https://sites.google.com/view/amanuellegesse)
 
@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://ivory-mildred-24.tiiny.site](https://ivory-mildred-24.tiiny.site)
 
-- ⚡ Fun fact **I love tinkering with gaming consoles.**
+- ⚡ Fun fact **I love creating my own servers and find issues and resolve them.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
